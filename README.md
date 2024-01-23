@@ -28,7 +28,8 @@ Welcome to the Random Quotes Generator project! This simple web application fetc
 
 ## Screenshots
 
-(Add screenshots here)
+![image](https://github.com/supersaiyancoder/Random-Quotes-Generator-/assets/83352265/1050c885-54f5-4f54-9bb9-d0b484deeb19)
+
 
 ## Contributing
 
