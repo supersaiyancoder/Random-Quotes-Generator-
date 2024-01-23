@@ -30,6 +30,9 @@ Welcome to the Random Quotes Generator project! This simple web application fetc
 
 ![image](https://github.com/supersaiyancoder/Random-Quotes-Generator-/assets/83352265/1050c885-54f5-4f54-9bb9-d0b484deeb19)
 
+## Video
+
+https://github.com/supersaiyancoder/Random-Quotes-Generator-/assets/83352265/d6f35909-d43b-4d05-a2a7-e824b588902d
 
 ## Contributing
 
